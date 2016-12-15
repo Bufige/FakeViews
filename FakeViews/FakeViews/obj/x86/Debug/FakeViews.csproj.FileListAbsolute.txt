@@ -1,0 +1,7 @@
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\bin\Debug\FakeViews.exe
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\bin\Debug\FakeViews.pdb
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\bin\Debug\WebDriver.dll
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\bin\Debug\WebDriver.xml
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\obj\x86\Debug\FakeViews.csprojResolveAssemblyReference.cache
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\obj\x86\Debug\FakeViews.exe
+C:\Users\MATRIX\Documents\Projects\FakeViews\FakeViews\obj\x86\Debug\FakeViews.pdb
